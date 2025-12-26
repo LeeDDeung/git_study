@@ -1,2 +1,2 @@
 # OZ_AI_bootcamp
-- Git
+- Git Practice
